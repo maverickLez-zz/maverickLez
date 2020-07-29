@@ -15,7 +15,7 @@
   <img align="left" alt="Parth's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.stopstalk.com/user/profile/timothyx">
-  <img align="left" alt="Parth's StopStalk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stopstalk.svg" />
+  <img align="left" alt="Parth's StopStalk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sogou.svg" />
 </a>
 <a href="https://leetcode.com/timothyx7/">
   <img align="left" alt="Parth's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
@@ -29,7 +29,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from IIIT
 
 [![website](https://img.shields.io/badge/PortfolioWebsite-maverickLez.github.io-2648ff?style=flat-square&logo=google-chrome)](https://maverickLez.github.io/)
 
-<img align="right" height="250" width="375" alt="GIF" src="http://gph.is/1a6zuNG" />
+<img align="right"  alt="GIF" src="https://media.giphy.com/media/vohOR29F78sGk/giphy.gif" />
 
 ### Talking about Personal Stuffs:
 
