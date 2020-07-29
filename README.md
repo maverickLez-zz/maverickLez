@@ -23,13 +23,13 @@
 
 <br />
 
-### Glad to see you here! 🤩 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi)
+### Glad to see you here! 🤩 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=maverickLez.maverickLez)
 
-I'm a final year student pursuing Bachelors's in Computer Science 🎓 from IIIT Surat 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a final year student pursuing Bachelors's in Computer Science 🎓 from IIIT Surat 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.I'm currently into Competitive Programming 🧑‍💻 and working on my Data Structures and Algorithms 🤓.
 
-[![website](https://img.shields.io/badge/PortfolioWebsite-maverickLez.github.io-2648ff?style=flat-square&logo=google-chrome)](https://maverickLez.github.io/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-maverickLez.github.io-2648ff?style=flat-square&logo=google-chrome)](https://maverickLez.github.io/portfolio)
 
-<img align="right"  alt="GIF" src="https://media.giphy.com/media/vohOR29F78sGk/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/vohOR29F78sGk/giphy.gif" />
 
 ### Talking about Personal Stuffs:
 
