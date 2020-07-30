@@ -24,7 +24,7 @@
 
 ### Glad to see you here! 🤩 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=maverickLez.maverickLez)
 
-I'm a final year student pursuing Bachelors's in Computer Science 🎓 from IIIT Surat 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨I'm currently doing Competitive Programming 🧑‍💻 and working on my Data Structures and Algorithms skills 🤓.
+I'm a final year student pursuing Bachelors's in Computer Science 🎓 from IIIT Surat 🏛. I'm a avid learner who's always willing to learn and work across various technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨I'm currently doing Competitive Programming 🧑‍💻 and working on my Data Structures and Algorithms skills 🤓.
 
 [![website](https://img.shields.io/badge/PortfolioWebsite-maverickLez.github.io-2648ff?style=flat-square&logo=google-chrome)](https://maverickLez.github.io/portfolio)
 
