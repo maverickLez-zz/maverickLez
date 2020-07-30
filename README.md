@@ -21,23 +21,23 @@
   <img align="left" alt="Parth's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
-<br />
+<br/>
 
 ### Glad to see you here! 🤩 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=maverickLez.maverickLez)
 
-I'm a final year student pursuing Bachelors's in Computer Science 🎓 from IIIT Surat 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.I'm currently into Competitive Programming 🧑‍💻 and working on my Data Structures and Algorithms 🤓.
+I'm a final year student pursuing Bachelors's in Computer Science 🎓 from IIIT Surat 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨I'm currently into Competitive Programming 🧑‍💻 and working on my Data Structures and Algorithms 🤓.
 
 [![website](https://img.shields.io/badge/PortfolioWebsite-maverickLez.github.io-2648ff?style=flat-square&logo=google-chrome)](https://maverickLez.github.io/portfolio)
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/vohOR29F78sGk/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/sITRGriEEEnL2/giphy.gif" />
 
 ### Talking about Personal Stuffs:
 
-- 👨🏻‍💻 I’m currently into competitive programming mostly 🚀.
+- 👨🏻‍💻 I love to solve CTFs and cyber security challenges 🚀.
 - ⚡ Fun fact: Computers let you make mistake faster than any invention in human history - with the posible exceptions of handguns and tequila.
 - 📫 How to reach me: parthv700@gmail.com
 
-### Languages and Tools:
+### Languages,Tools & Technologies:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
@@ -45,7 +45,5 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from IIIT
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" alt="github"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=maverickLez&show_icons=true&hide_border=true)
-
 #
