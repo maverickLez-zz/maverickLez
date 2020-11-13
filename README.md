@@ -28,7 +28,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from IIIT
 
 [![website](https://img.shields.io/badge/PortfolioWebsite-maverickLez.github.io-2648ff?style=flat-square&logo=google-chrome)](https://maverickLez.github.io/)
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/sITRGriEEEnL2/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/lTAI5NrYLDZmUfmfuL/giphy.gif" />
 
 ### Talking about Personal Stuffs:
 
