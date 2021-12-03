@@ -26,8 +26,6 @@
 
 I have completed Bachelors's in Computer Science 🎓 from IIIT Surat 🏛. I'm a avid learner who's always willing to learn and work across various technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨
 
-[![website](https://img.shields.io/badge/PortfolioWebsite-maverickLez.github.io-2648ff?style=flat-square&logo=google-chrome)](https://maverickLez.github.io/)
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/lTAI5NrYLDZmUfmfuL/giphy.gif" />
 
 ### Talking about Personal Stuffs:
